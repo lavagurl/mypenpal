@@ -18,4 +18,4 @@ Il n'y a rien de plus simple. Tu télécharges le dossier complet de notre proje
 
 En attendant que ce projet trouve sa place parmi tes dossiers, tu peux télécharger "WampServer" (http://www.wampserver.com/). 
 Ce n'est qu'une simple plateforme de développement web de type "WAMP" qui regroupe tout ce dont tu auras besoin pour la suite de l'installation : "Windows", "Apache", "MySql" et "PHP". 
-Une fois bien installé, tu peux le démarrer et le logo de WampServer apparait en bas à droite sur ton écran en vert, dans la barre des tâches.
+Une fois bien installé, tu peux le démarrer et le logo de WampServer apparait en bas à droite sur ton écran en vert, dans la barre des tâches. Après ça, clique sur le logo vert en question et rends toi sur "Répertoire www", une fois ton dossier ouvert tu peux y mettre le projet téléchargé précédemment. 
