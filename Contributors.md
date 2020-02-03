@@ -11,7 +11,7 @@ Etudiante en 3ème année filière Ingénieurie du Web à l'ESGI
 
 
 Julien Mello
-
+jul77.me@hotmail.fr
 j-mello
 Etudiant en 3ème année filière Ingénieurie du Web à l'ESGI
 
