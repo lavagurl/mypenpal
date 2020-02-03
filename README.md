@@ -1,4 +1,4 @@
-My Penpal - créer en 2017/2018
+My Penpal - créé en 2017/2018
 
 
 Qu’est-ce que c’est ? 
@@ -7,10 +7,6 @@ Ce site a été développé pour un projet annuel lors de la première année d'
 
 Ce site a pour but de créer des échanges entre plusieurs personnes de centres d'intérêts communs. 
 Les utilisateurs ont accès à plusieurs fonctionnalités, comme le fait de discuter avec les personnes de leurs choix selon les intérêts sélectionnés. Il y a également un forum mis à disponibilité des utilisateurs, ainsi que des conversations privées et instantanées. 
-
-Voici le logo de notre site : 
-
-
 
 Comment faire pour l'installer en local ?
 
