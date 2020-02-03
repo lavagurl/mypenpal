@@ -11,10 +11,11 @@ Une erreur dans le code et vous voulez faire une modification?
 
 Soyez sûr que votre code fonctionne. Lancez le avant de créer votre "pull request".
 Si vous ajoutez une nouvelle API, il faut qu'elle soit documentée.
-Le commit message doit expliquer le contexte et le problème. Ensuite, il faut expliquer comment le probleme a été résolu.
+Le commit message doit expliquer le contexte et le problème. Ensuite, il faut expliquer comment le problème a été résolu.
 
 Proposition de CSS :
 N'étant pas designer, chaque idée de nouveau template sera sérieusement étudiée. Faites un pull request et nous ajouterons 
 peut-être votre travail à notre projet.
 
 Si votre pull request a été approuvée par les administrateurs , vous pouvez lancer le merge!
+
